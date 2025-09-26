@@ -1,4 +1,4 @@
-###🏥 Health Insurance Premium Prediction
+##🏥 Health Insurance Premium Prediction
 
 A Streamlit web application that predicts health insurance premiums based on user inputs such as age, gender, BMI, children, and smoking status. This project demonstrates machine learning deployment with a professional-grade, clean, and minimal UI design.
 
