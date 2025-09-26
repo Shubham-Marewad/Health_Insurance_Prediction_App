@@ -1,8 +1,8 @@
-##🏥 Health Insurance Premium Prediction
+# 🏥 Health Insurance Premium Prediction
 
 A Streamlit web application that predicts health insurance premiums based on user inputs such as age, gender, BMI, children, and smoking status. This project demonstrates machine learning deployment with a professional-grade, clean, and minimal UI design.
 
-📌 Features
+# 📌 Features
 
 ✅ Predicts health insurance premium using a trained ML model
 ✅ Clean & professional business-style UI
@@ -12,7 +12,7 @@ A Streamlit web application that predicts health insurance premiums based on use
 ✅ Risk assessment insights based on BMI and smoking habits
 ✅ Responsive layout (desktop & mobile friendly)
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python 3.x
 
@@ -22,7 +22,7 @@ scikit-learn / ML Model – Training the premium prediction model
 
 pickle – Saving/loading trained model
 
-📂 Project Structure
+# 📂 Project Structure
 health_insurance_premium_prediction/
 │── model.pkl                 # Trained ML model
 │── app.py                    # Streamlit app (main script)
@@ -31,7 +31,7 @@ health_insurance_premium_prediction/
 │── data/                     # (Optional) Dataset used for training
 │── notebooks/                # (Optional) Model training notebooks
 
-🚀 Getting Started
+# 🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/health-insurance-premium-prediction.git
 cd health-insurance-premium-prediction
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 4️⃣ Run the App
 streamlit run app.py
 
-🧠 Model Details
+# 🧠 Model Details
 
 Algorithm Used: Linear Regression / Random Forest (based on training choice)
 
@@ -65,7 +65,7 @@ Smoker (Yes/No)
 
 Output: Predicted Health Insurance Premium (in USD)
 
-📊 Example Prediction
+# 📊 Example Prediction
 
 Input:
 
@@ -83,17 +83,17 @@ Output:
 
 Predicted Premium: $12,350.75
 
-📜 Disclaimer
+# 📜 Disclaimer
 
 This tool is for educational purposes only.
 Predictions are based on a simplified ML model and should not be used for real financial or medical decisions.
 
-🤝 Contribution
+# 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit pull requests.
 
-📧 Contact
+# 📧 Contact
 
 Developed by [Your Name]
 
