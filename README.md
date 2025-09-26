@@ -23,13 +23,7 @@ scikit-learn / ML Model – Training the premium prediction model
 pickle – Saving/loading trained model
 
 # 📂 Project Structure
-health_insurance_premium_prediction/
-│── model.pkl                 # Trained ML model
-│── app.py                    # Streamlit app (main script)
-│── requirements.txt          # Dependencies
-│── README.md                 # Project documentation
-│── data/                     # (Optional) Dataset used for training
-│── notebooks/                # (Optional) Model training notebooks
+<img width="737" height="261" alt="image" src="https://github.com/user-attachments/assets/3158eac9-c938-4699-8647-6db7364be8f6" />
 
 
 # 🚀 Getting Started
